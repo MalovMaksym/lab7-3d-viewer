@@ -1,0 +1,31 @@
+# CMake
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio
+/.vs/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
